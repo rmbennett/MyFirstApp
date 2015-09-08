@@ -1,7 +1,7 @@
 # MyFirstApp
 
 Completing the Android Tutorial on http://developer.android.com/training/basics/firstapp/index.html
-Completed 1. http://developer.android.com/training/basics/firstapp/creating-project.html
-Completed 2. http://developer.android.com/training/basics/firstapp/running-app.html
-Completed 3. http://developer.android.com/training/basics/firstapp/building-ui.html
-In Progress 4. http://developer.android.com/training/basics/firstapp/starting-activity.html
+1. Completed http://developer.android.com/training/basics/firstapp/creating-project.html
+2. Completed http://developer.android.com/training/basics/firstapp/running-app.html
+3. Completed http://developer.android.com/training/basics/firstapp/building-ui.html
+4. In Progress http://developer.android.com/training/basics/firstapp/starting-activity.html

@@ -4,4 +4,4 @@ Completing the Android Tutorial on http://developer.android.com/training/basics/
 1. Completed http://developer.android.com/training/basics/firstapp/creating-project.html
 2. Completed http://developer.android.com/training/basics/firstapp/running-app.html
 3. Completed http://developer.android.com/training/basics/firstapp/building-ui.html
-4. In Progress http://developer.android.com/training/basics/firstapp/starting-activity.html
+4. Completed http://developer.android.com/training/basics/firstapp/starting-activity.html
